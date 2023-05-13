@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
       <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
-      <lastBuildDate>Mon, 01 May 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 13 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/cloud/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_1_iam0</guid>
+    <title>Harnessing AWS IAM and Terraform for Enhanced Cybersecurity</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_1_iam0</link>
+    <description>Explore how to strengthen your cloud security by effectively managing AWS IAM components (users, policies, groups and roles) using Terraform, a powerful Infrastructure as Code tool.</description>
+    <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
+    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</guid>
     <title>Terraform and Cybersecurity: A Chill Intro</title>
