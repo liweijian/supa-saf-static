@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
       <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
-      <lastBuildDate>Mon, 26 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 30 Jun 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/cloud/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</guid>
+    <title>Encrypting DynamoDB with AWS KMS: A Secure and Easy Guide</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</link>
+    <description>Discover how to use Terraform and AWS Key Management Service (KMS) to encrypt DynamoDB tables and enhance cybersecurity.</description>
+    <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/terraform/terraform_sec_4_bastion</guid>
     <title>Bastion Hosts: Safeguarding Your Cloud Resources</title>
