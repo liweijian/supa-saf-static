@@ -21,6 +21,10 @@
   </url>
 
   <url>
+    <loc>https://www.supasaf.com/blog/general/envelope_encr</loc>
+  </url>
+
+  <url>
     <loc>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</loc>
   </url>
 
@@ -45,11 +49,15 @@
   </url>
 
   <url>
+    <loc>https://www.supasaf.com/tags/aws</loc>
+  </url>
+
+  <url>
     <loc>https://www.supasaf.com/tags/cloud</loc>
   </url>
 
   <url>
-    <loc>https://www.supasaf.com/tags/aws</loc>
+    <loc>https://www.supasaf.com/tags/cryptography</loc>
   </url>
 
   <url>
