@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Cybersecurity, Cloud and WebAssembly</title>
+      <title>Cybersecurity, Cloud and Compiler</title>
       <link>https://www.supasaf.com/blog</link>
-      <description>Insights into Cybersecurity, Cloud computing, and WebAssembly</description>
+      <description>Insights into Cybersecurity, Cloud computing, and Compiler</description>
       <language>en-us</language>
-      <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
-      <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
+      <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
+      <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
       <lastBuildDate>Tue, 31 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/azure/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.supasaf.com/blog/general/firewall_kekkai</link>
     <description>Dive into the world of firewalls, understanding their function, exploring traditional and modern versions, and discovering the promising newcomer, Coraza, all through the lens of Japanese anime barriers.</description>
     <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Cloud</category><category>AWS</category><category>Azure</category>
   </item>
 

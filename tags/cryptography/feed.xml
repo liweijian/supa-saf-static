@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Cybersecurity, Cloud and WebAssembly</title>
+      <title>Cybersecurity, Cloud and Compiler</title>
       <link>https://www.supasaf.com/blog</link>
-      <description>Insights into Cybersecurity, Cloud computing, and WebAssembly</description>
+      <description>Insights into Cybersecurity, Cloud computing, and Compiler</description>
       <language>en-us</language>
-      <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
-      <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
+      <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
+      <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
       <lastBuildDate>Sun, 02 Jul 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/cryptography/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.supasaf.com/blog/general/envelope_encr</link>
     <description>Explore envelope encryption and its importance for cloud security, using AWS Key Management Service (KMS) and OpenSSL to protect sensitive data.</description>
     <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Cloud</category><category>AWS</category><category>Cryptography</category>
   </item>
 

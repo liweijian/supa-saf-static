@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Cybersecurity, Cloud and WebAssembly</title>
+      <title>Cybersecurity, Cloud and Compiler</title>
       <link>https://www.supasaf.com/blog</link>
-      <description>Insights into Cybersecurity, Cloud computing, and WebAssembly</description>
+      <description>Insights into Cybersecurity, Cloud computing, and Compiler</description>
       <language>en-us</language>
-      <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
-      <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
+      <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
+      <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
       <lastBuildDate>Tue, 31 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.supasaf.com/blog/general/firewall_kekkai</link>
     <description>Dive into the world of firewalls, understanding their function, exploring traditional and modern versions, and discovering the promising newcomer, Coraza, all through the lens of Japanese anime barriers.</description>
     <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Cloud</category><category>AWS</category><category>Azure</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.supasaf.com/blog/general/aws_security_cert</link>
     <description>Sharing my exam prep insights and key technical focus areas like IAM, KMS, and VPC to help others prepare for the AWS Security Specialty exam.</description>
     <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Cloud</category><category>AWS</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.supasaf.com/blog/general/envelope_encr</link>
     <description>Explore envelope encryption and its importance for cloud security, using AWS Key Management Service (KMS) and OpenSSL to protect sensitive data.</description>
     <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Cloud</category><category>AWS</category><category>Cryptography</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</link>
     <description>Discover how to use Terraform and AWS Key Management Service (KMS) to encrypt DynamoDB tables and enhance cybersecurity.</description>
     <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
@@ -56,7 +56,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_4_bastion</link>
     <description>Discover the significance of bastion hosts in cloud security and learn how to set up a secure gateway using Terraform in AWS, ensuring protection for private resources while reducing the attack surface area.</description>
     <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
@@ -66,7 +66,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</link>
     <description>Exploring the nuances of Attribute-based Access Control (ABAC) and Role-based Access Control (RBAC) in cloud security using Terraform, and understanding their strategic implementation in managing AWS tagged resources.</description>
     <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
@@ -76,7 +76,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_2_iam1</link>
     <description>A practical guide to enhancing cloud security by implementing a split-privilege model in AWS IAM using Terraform, inspired by the insightful work of Dylan Shields in his book &quot;AWS Security&quot;.</description>
     <pubDate>Sun, 14 May 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
@@ -86,7 +86,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_1_iam0</link>
     <description>Explore how to strengthen your cloud security by effectively managing AWS IAM components (users, policies, groups and roles) using Terraform, a powerful Infrastructure as Code tool.</description>
     <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
@@ -96,7 +96,7 @@
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</link>
     <description>Learn about the benefits of using Terraform to manage infrastructure at large technology companies, with a focus on improving cybersecurity.</description>
     <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Terraform</category><category>Cloud</category><category>AWS</category>
   </item>
 
