@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</managingEditor>
       <webMaster>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</webMaster>
-      <lastBuildDate>Sun, 24 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 31 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/firewall_kekkai</guid>
+    <title>WAFs: The Magical Barriers of Cybersecurity</title>
+    <link>https://www.supasaf.com/blog/general/firewall_kekkai</link>
+    <description>Dive into the world of firewalls, understanding their function, exploring traditional and modern versions, and discovering the promising newcomer, Coraza, all through the lens of Japanese anime barriers.</description>
+    <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+    <author>bGl3ZWlqaWFuLmh1c3RAZ21haWwuY29t@decode-in-base64 (Supa Safe)</author>
+    <category>Cloud</category><category>AWS</category><category>Azure</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/aws_security_cert</guid>
     <title>AWS Security Specialty: What I Learned Preparing for the Exam</title>
