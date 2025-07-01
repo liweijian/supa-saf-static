@@ -21,58 +21,10 @@
   </url>
 
   <url>
-    <loc>https://www.supasaf.com/blog/general/aws_security_cert</loc>
+    <loc>https://www.supasaf.com/blog/service-account-1</loc>
   </url>
 
   <url>
-    <loc>https://www.supasaf.com/blog/general/envelope_encr</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/general/firewall_kekkai</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_1_iam0</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_2_iam1</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_4_bastion</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/tags/aws</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/tags/azure</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/tags/cloud</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/tags/cryptography</loc>
-  </url>
-
-  <url>
-    <loc>https://www.supasaf.com/tags/terraform</loc>
+    <loc>https://www.supasaf.com/tags/architect</loc>
   </url>
 </urlset>
