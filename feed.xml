@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Jul 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/raft-algo</guid>
+    <title>Consensus Algorithms Through the Eyes of an Infosec Architect</title>
+    <link>https://www.supasaf.com/blog/raft-algo</link>
+    <description>a.k.a. I wrote a Raft cluster in Go and accidentally learned a lot</description>
+    <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Architect</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/service-account-1</guid>
     <title>InfoSec architect 101-Service account from prehistory</title>
