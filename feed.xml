@@ -41,6 +41,16 @@
   </item>
 
   <item>
+    <guid>https://www.supasaf.com/blog/general/envelope_encr.md</guid>
+    <title>Envelope Encryption: Boosting Cloud Security with KMS</title>
+    <link>https://www.supasaf.com/blog/general/envelope_encr.md</link>
+    <description>Explore envelope encryption and its importance for cloud security, using AWS Key Management Service (KMS) and OpenSSL to protect sensitive data.</description>
+    <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Cloud</category><category>AWS</category><category>Cryptography</category>
+  </item>
+
+  <item>
     <guid>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</guid>
     <title>Encrypting DynamoDB with AWS KMS: A Secure and Easy Guide</title>
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_5_kms_dynamodb</link>
