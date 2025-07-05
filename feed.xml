@@ -30,5 +30,15 @@
     <category>Architect</category>
   </item>
 
+  <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</guid>
+    <title>Terraform and Cybersecurity: A Chill Intro</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</link>
+    <description>An old-timer&#39;s take on why managing cloud infrastructure by hand is a security nightmare, and how Terraform (and its cool cousin, OpenTofu) can save your bacon.</description>
+    <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
     </channel>
   </rss>
