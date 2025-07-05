@@ -31,6 +31,16 @@
   </item>
 
   <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_4_bastion</guid>
+    <title>Bastion Hosts: Safeguarding Your Cloud Resources</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_4_bastion</link>
+    <description>Discover the significance of bastion hosts in cloud security and learn how to set up a secure gateway using Terraform in AWS, ensuring protection for private resources while reducing the attack surface area.</description>
+    <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
+  <item>
     <guid>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</guid>
     <title>ABAC and RBAC: A Journey with Terraform and AWS Tagged Resources</title>
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</link>
