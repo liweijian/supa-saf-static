@@ -31,6 +31,16 @@
   </item>
 
   <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</guid>
+    <title>ABAC and RBAC: A Journey with Terraform and AWS Tagged Resources</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_3_abac</link>
+    <description>Exploring the nuances of Attribute-based Access Control (ABAC) and Role-based Access Control (RBAC) in cloud security using Terraform, and understanding their strategic implementation in managing AWS tagged resources.</description>
+    <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
+  <item>
     <guid>https://www.supasaf.com/blog/terraform/terraform_sec_2_iam1</guid>
     <title>An IAM Split-Privilege Model with Terraform for Robust Cybersecurity</title>
     <link>https://www.supasaf.com/blog/terraform/terraform_sec_2_iam1</link>
