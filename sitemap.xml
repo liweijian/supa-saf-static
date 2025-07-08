@@ -37,6 +37,10 @@
   </url>
 
   <url>
+    <loc>https://www.supasaf.com/blog/general/temporal</loc>
+  </url>
+
+  <url>
     <loc>https://www.supasaf.com/blog/terraform/terraform_sec_0_intro</loc>
   </url>
 
@@ -74,6 +78,10 @@
 
   <url>
     <loc>https://www.supasaf.com/tags/cryptography</loc>
+  </url>
+
+  <url>
+    <loc>https://www.supasaf.com/tags/secrets-management</loc>
   </url>
 
   <url>
