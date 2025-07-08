@@ -14,7 +14,7 @@
     <guid>https://www.supasaf.com/blog/general/temporal</guid>
     <title>An InfoSec Architect&#39;s First Taste of Temporal</title>
     <link>https://www.supasaf.com/blog/general/temporal</link>
-    null
+    <description>This is a therapy session for anyone traumatized by fragile scripts. I traded my `cron/try/catch` nightmares for a robot project manager named Temporal.</description>
     <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
     <author>nerd@supasaf.com (Supa Safe)</author>
     <category>Secrets Management</category>
