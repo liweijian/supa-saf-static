@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Tue, 08 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 18 Jul 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/phxsql</guid>
+    <title>A Look Back at WeChat&#39;s PhxSQL and the &#39;Fastest Majority&#39;</title>
+    <link>https://www.supasaf.com/blog/general/phxsql</link>
+    <description>This post explores how WeChat&#39;s PhxSQL uses the &quot;Fastest Majority&quot; principle to offer a timeless lesson in designing fast and resilient distributed database systems.</description>
+    <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Architect</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/temporal</guid>
     <title>An InfoSec Architect&#39;s First Taste of Temporal</title>
