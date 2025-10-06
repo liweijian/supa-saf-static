@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Fri, 22 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Oct 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/spiffe_go_k8s</guid>
+    <title>From Zero to Zero Trust: Securing Microservices with SPIFFE (The Fun Way!)</title>
+    <link>https://www.supasaf.com/blog/general/spiffe_go_k8s</link>
+    <description>This post uses a hands-on Go demo to show how SPIFFE/SPIRE automates Zero Trust security for gRPC microservices.</description>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Architect</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/hacker_physicist</guid>
     <title>Hacker and Physicist - A Tale of &quot;Common Sense&quot;</title>
