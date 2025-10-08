@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Mon, 06 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Oct 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/kerberos_ldap</guid>
+    <title>InfoSec Architect 102-Service Accounts in the Linux Universe</title>
+    <link>https://www.supasaf.com/blog/general/kerberos_ldap</link>
+    <description>This hands-on guide walks you through setting up Kerberos and LDAP on Ubuntu to achieve secure, password-free database access for service accounts, inspired by real-world practices at Uber.</description>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Architect</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/spiffe_go_k8s</guid>
     <title>From Zero to Zero Trust: Securing Microservices with SPIFFE (The Fun Way!)</title>
