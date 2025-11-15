@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Sun, 24 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 15 Nov 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/terraform/terraform_sec_6_presigned</guid>
+    <title>Stop Making Your S3 Buckets Public! A Guide to Presigned URLs</title>
+    <link>https://www.supasaf.com/blog/terraform/terraform_sec_6_presigned</link>
+    <description>Learn how to use S3 Presigned URLs to securely share private files without ever making your bucket public.</description>
+    <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Terraform</category><category>Cloud</category><category>AWS</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/aws_security_cert</guid>
     <title>AWS Security Specialty: What I Learned Preparing for the Exam</title>
