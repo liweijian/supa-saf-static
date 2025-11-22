@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Wed, 08 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 22 Nov 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/architect/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/oauth2_jwks</guid>
+    <title>Stop Hand-Crafting Tokens</title>
+    <link>https://www.supasaf.com/blog/general/oauth2_jwks</link>
+    <description>Stop using hard-coded tokens like it&#39;s 2007: A deep dive into securing microservices with OAuth 2.0 Client Credentials and the magic of JWKS key rotation.</description>
+    <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Architect</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/kerberos_ldap</guid>
     <title>InfoSec Architect 102-Service Accounts in the Linux Universe</title>
