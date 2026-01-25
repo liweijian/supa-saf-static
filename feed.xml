@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Sat, 22 Nov 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Jan 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/aws_rds</guid>
+    <title>A Tale of Two Clouds - AWS RDS Proxy vs. Tencent Cloud CAM</title>
+    <link>https://www.supasaf.com/blog/general/aws_rds</link>
+    <description>A quick look at database security architectures, contrasting the middleware pattern of AWS RDS Proxy with the client-side approach of Tencent Cloud CAM.</description>
+    <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Cloud</category><category>AWS</category><category>Tencent Cloud</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/oauth2_jwks</guid>
     <title>Stop Hand-Crafting Tokens</title>
