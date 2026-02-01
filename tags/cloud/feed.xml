@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>nerd@supasaf.com (Supa Safe)</managingEditor>
       <webMaster>nerd@supasaf.com (Supa Safe)</webMaster>
-      <lastBuildDate>Sun, 25 Jan 2026 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 01 Feb 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.supasaf.com/tags/cloud/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.supasaf.com/blog/general/zero_vault_jenkins</guid>
+    <title>The Napkin Architecture Series - Secret Zero, Jenkins, Ansible, and Vault</title>
+    <link>https://www.supasaf.com/blog/general/zero_vault_jenkins</link>
+    <description>Solved the &quot;Secret Zero&quot; Problem with Jenkins, Ansible, and Vault</description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <author>nerd@supasaf.com (Supa Safe)</author>
+    <category>Cloud</category><category>AWS</category><category>Tencent Cloud</category>
+  </item>
+
   <item>
     <guid>https://www.supasaf.com/blog/general/aws_rds</guid>
     <title>A Tale of Two Clouds - AWS RDS Proxy vs. Tencent Cloud CAM</title>
