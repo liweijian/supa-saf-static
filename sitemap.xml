@@ -65,7 +65,11 @@
   </url>
 
   <url>
-    <loc>https://www.supasaf.com/blog/general/zero_vault_jenkins</loc>
+    <loc>https://www.supasaf.com/blog/napkin/nac_pki_scep</loc>
+  </url>
+
+  <url>
+    <loc>https://www.supasaf.com/blog/napkin/zero_vault_jenkins</loc>
   </url>
 
   <url>
@@ -110,6 +114,10 @@
 
   <url>
     <loc>https://www.supasaf.com/tags/cryptography</loc>
+  </url>
+
+  <url>
+    <loc>https://www.supasaf.com/tags/pki</loc>
   </url>
 
   <url>
