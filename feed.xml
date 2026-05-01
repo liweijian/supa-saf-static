@@ -12,7 +12,7 @@
       
   <item>
     <guid>https://www.supasaf.com/blog/napkin/nac_pki_scep</guid>
-    <title>Device Onboarding with SCEP and a NAC Proxy</title>
+    <title>The Napkin Architecture Series - Device Onboarding with SCEP and NAC</title>
     <link>https://www.supasaf.com/blog/napkin/nac_pki_scep</link>
     <description>Built a Zero Trust device onboarding pipeline using MDM, a NAC proxy, and SCEP.</description>
     <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>

@@ -1,1 +1,0 @@
-{"pageProps":{"posts":[{"title":"Device Onboarding with SCEP and a NAC Proxy","date":"2026-05-01T00:00:00.000Z","tags":["PKI"],"draft":false,"summary":"Built a Zero Trust device onboarding pipeline using MDM, a NAC proxy, and SCEP.","images":[],"slug":"napkin/nac_pki_scep"}],"tag":"pki"},"__N_SSG":true}
